@@ -1,4 +1,4 @@
-plugins {
+gacy-Fabric/fabric/pull/41plugins {
     id 'maven-publish'
     id 'fabric-loom' version "0.4-SNAPSHOT"
 }
@@ -37,7 +37,7 @@ dependencies {
         exclude module: "guava"
     }
 
-    modImplementation("net.swifthq:SwiftAPI:1.3.2")
+    modImplementation("net.swifthq:SwiftAPI:1.5.0")
     modImplementation "net.fabricmc.fabric-api:fabric-api:0.7.0"
 }
 
