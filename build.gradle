@@ -37,7 +37,7 @@ dependencies {
         exclude module: "guava"
     }
 
-    modImplementation("net.swifthq:SwiftAPI:1.5.0")
+    modImplementation("net.swifthq:SwiftAPI:1.6.5")
     modImplementation "net.fabricmc.fabric-api:fabric-api:0.7.1"
 }
 
