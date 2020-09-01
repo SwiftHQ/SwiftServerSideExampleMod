@@ -1,4 +1,4 @@
-gacy-Fabric/fabric/pull/41plugins {
+plugins {
     id 'maven-publish'
     id 'fabric-loom' version "0.4-SNAPSHOT"
 }
